@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BddAndSpecFlow", "TestProject\BddAndSpecFlow.csproj", "{3ADB5323-9310-44D4-9CC3-5D24DAB9F478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHomeAutomationSystem", "MyHomeAutomationSystem\MyHomeAutomationSystem.csproj", "{7AAE8A10-8B5C-4309-8B41-73F815BB6378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADB5323-9310-44D4-9CC3-5D24DAB9F478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADB5323-9310-44D4-9CC3-5D24DAB9F478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADB5323-9310-44D4-9CC3-5D24DAB9F478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADB5323-9310-44D4-9CC3-5D24DAB9F478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAE8A10-8B5C-4309-8B41-73F815BB6378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAE8A10-8B5C-4309-8B41-73F815BB6378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAE8A10-8B5C-4309-8B41-73F815BB6378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAE8A10-8B5C-4309-8B41-73F815BB6378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A08901-FD7B-4369-B334-ED8FDFD67F8F}
+	EndGlobalSection
+EndGlobal
